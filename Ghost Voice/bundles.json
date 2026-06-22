@@ -1,0 +1,14 @@
+{
+    "manifest":[
+        {
+            "key": "voices/ghost/Audio/ghost_audio.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "voices/ghost/Voices/ghost_voice.bundle",
+            "dependencyKeys": [
+                "voices/ghost/Audio/ghost_audio.bundle"
+            ]
+        }
+    ]
+}

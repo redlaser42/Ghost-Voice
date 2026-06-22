@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Games\\FIKA\\Mods Dev\\Ghost Voice\\Ghost Voice\\VisualStudioProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{353A90CA-D546-4867-889A-9E7299370A0D}|Ghost.csproj|g:\\games\\fika\\mods dev\\ghost voice\\ghost voice\\visualstudioproject\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353A90CA-D546-4867-889A-9E7299370A0D}|Ghost.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cs",
+              "DocumentMoniker": "G:\\Games\\FIKA\\Mods Dev\\Ghost Voice\\Ghost Voice\\VisualStudioProject\\main.cs",
+              "RelativeDocumentMoniker": "main.cs",
+              "ToolTip": "G:\\Games\\FIKA\\Mods Dev\\Ghost Voice\\Ghost Voice\\VisualStudioProject\\main.cs",
+              "RelativeToolTip": "main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T23:15:25.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

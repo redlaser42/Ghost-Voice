@@ -1,0 +1,10 @@
+{
+  "6a3720d07b3e9c17a06290bb": {
+    "locales": {
+      "en": "Ghost"
+    },
+    "name": "Ghost",
+    "bundlePath": "voices/ghost/Voices/ghost_voice.bundle",
+    "addVoiceToPlayer": true
+  }
+}

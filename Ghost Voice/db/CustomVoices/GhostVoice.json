@@ -5,6 +5,7 @@
     },
     "name": "Ghost",
     "bundlePath": "voices/ghost/Voices/ghost_voice.bundle",
-    "addVoiceToPlayer": true
+    "addVoiceToPlayer": true,
+	"addToBotTypes": {,"pmcBot": 8000,"pmcUSEC": 5000}
   }
 }
